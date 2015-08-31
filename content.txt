@@ -1,0 +1,66 @@
+Personal Vision:
+Hello, my name is Chris James, and I dream of becoming one with technology one day.  To start with, I'm currently in my 10th year at UF pursuing my Undergraduate degree in Computer Science.  This is (hopefully) my last semester.  My focus is computer security, and I hope to work in Enterprise Security performing Penetration testing and/or binary reverse engineering or exploitation.
+
+Full Name:
+	Dennis Christopher James
+
+Picture:
+	headshot.jpg
+
+Contact information:
+	Cell:	(352) 575-7257
+	Email:	TobalJackson@gmail.com
+
+Major: 
+	Computer Science
+
+Linked Social Media:
+	Facebook:	http://www.facebook.com/TobalJackson
+	GitHub:		http://github.com/TobalJackson
+	Blog:		http://binarystud.io
+
+Career interests:
+	Pentesting
+	reverse engineering
+	exploitation
+	cryptography
+	
+Industry Experience:
+	Currently working for IT Security @ UF
+	Member of SIT
+	Attended DEFCON 21
+	Attended Bsides @ orlando, jax, las vegas
+
+Research Experience:
+
+Hobbies:
+	Video games (playing and making)
+	Music
+	Rock Climbing
+
+Skills:
+	Halo (FPS)
+	Super Smash Bros
+	Racquetball
+	Pool (billiards)
+	Rock Climbing
+	Lightwave 3D
+	HDD Data recovery
+	Malware Removal
+	Destktop PC Building
+	Cooking
+
+Highlight Portfolio of Work:
+
+Aesthetically Styled:
+	Style Template
+	Appropriate Components
+	Color
+	Space
+	Readable
+	Engaging
+
+Structure:
+	HTML and CSS tags + attributes
+	Readable Code
+	Comments
