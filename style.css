@@ -33,8 +33,14 @@ body {
 	padding: 40px 15px;
 	text-align: left;
 }
-#contact {
+#experience{
 	background-color: #071426;
+	background-size: cover;
+	padding: 40px 15px;
+	text-align: left;
+}
+#contact {
+	background-color: #1C1829;
 	background-size: cover;
 	height: 100vh;
 	padding: 40px 15px;
